@@ -1,0 +1,5 @@
+{
+    "configuration": "flash=2097152_0,freq=133,opt=Small,rtti=Disabled,dbgport=Disabled,dbglvl=None,usbstack=picosdk,boot2=boot2_generic_03h_2_padded_checksum",
+    "board": "rp2040:rp2040:generic",
+    "port": "/dev/tty.usbmodem2114201"
+}

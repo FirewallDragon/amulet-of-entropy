@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/carey/Documents/Arduino/libraries/GFX_Library_for_Arduino/src",
+                "/Users/carey/Documents/Arduino/libraries/Adafruit_NeoPixel",
+                "/Users/carey/Library/Arduino15/packages/arduino/hardware/mbed_rp2040/3.1.1/libraries/Wire"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
