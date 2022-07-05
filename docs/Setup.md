@@ -65,8 +65,5 @@ When it first starts, it will need to build up the pool of entropy (list of rand
 
 # Step 4 (optional): Battery Pack
 
-To run power this badge on its own, you're going to need some sort of battery pack. The badge supports LiPo battery charging via the [JST PH 2-Pin connector](https://www.adafruit.com/product/261). I used [one of these 600 mAh packs](https://smile.amazon.com/dp/B091FGPP8F?psc=1), but I had to switch the polarity of the JST cable. I actually cut the wires and resoldered them backward, but apparently you can also pry them out of the JST connector and reinsert them, too.
-
-You can also just get a AAA battery pack, which will obviously be heavier and won't fit between the PCBs. I haven't tried this.
-
+To run power this badge on its own, you're going to need some sort of battery. The badge supports LiPo battery charging via the [JST PH 2-Pin connector](https://www.adafruit.com/product/261). I used [one of these 600 mAh packs](https://smile.amazon.com/dp/B091FGPP8F?psc=1), but I had to switch the polarity of the JST cable. I actually cut the wires and resoldered them backward, but apparently you can also pry them out of the JST connector and reinsert them, too.
 
