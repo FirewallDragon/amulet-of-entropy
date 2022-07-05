@@ -6,6 +6,8 @@ This badge will also be used as a research tool for a talk at this year's DEF CO
 
 This project took about 8 months to complete (off and on) and I could not have done it without HackerBoxes. HUGE thanks to Joe for handling all the hard parts (and his infinite patience with my many questions)! If you're the least bit interested in building some fun and educational electronics projects, subscribe. Just trust me.
 
+UPDATE: I'm planning to add a branch with some other modes, like a d20. Stay tuned!
+
 ## Project Documentation
 
 
