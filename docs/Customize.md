@@ -4,7 +4,7 @@ Once you have your amulet up and running, you might be interested in making your
 
 ## Bonus Modes
 
-I'll be adding some addition modes soon, including common D&D dice. Stay tuned! You'll find the bonus images and some code you can copy in the [src/bonus](../src/bonus) directory. I'll also add some other splash screen images you can use.
+I'll be adding some additional modes soon, including common D&D dice. Stay tuned! You'll find the bonus images and some code you can copy in the [src/bonus](../src/bonus) directory. I'll also add some other splash screen images you can use.
 
 ## Flash Memory Full
 
