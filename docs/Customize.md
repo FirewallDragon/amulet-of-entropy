@@ -2,6 +2,10 @@
 
 Once you have your amulet up and running, you might be interested in making your own mods, which I highly encourage! Note that I won't be accepting many direct [contributions](Contrib.md), so instead I recommend that you just make your modifications locally or [fork the primary repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo). Either way, here are a few notes that might help you.
 
+## Bonus Modes
+
+I'll be adding some addition modes soon, including common D&D dice. Stay tuned! You'll find the bonus images and some code you can copy in the [src/bonus](../src/bonus) directory. I'll also add some other splash screen images you can use.
+
 ## Flash Memory Full
 
 Note that the `/data` directory, as it stands, will completely fill the 1MB of flash memory set aside for the LittleFS file system. If you're going to add your own modes, you're probably going to need to delete one of the current modes. (I actually wanted to add several other modes, but ran out of room.) I'd delete either `cards` or `tarot`, as these use up the most space.
