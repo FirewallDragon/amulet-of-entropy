@@ -10,6 +10,7 @@ More info:
 * [Pseudorandom Number Generator](https://en.wikipedia.org/wiki/Cryptographically-secure_pseudorandom_number_generator)
 * [Randomness Test](https://en.wikipedia.org/wiki/Randomness_test)
 * [Diehard Tests](https://en.wikipedia.org/wiki/Diehard_tests)
+* For more info on shot noise, see the [Links](Links.md) list.
 
 
 ### Cool Online Sources of Entropy
