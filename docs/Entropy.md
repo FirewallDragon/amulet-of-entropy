@@ -12,6 +12,11 @@ More info:
 * [Diehard Tests](https://en.wikipedia.org/wiki/Diehard_tests)
 * For more info on shot noise, see the [Links](Links.md) list.
 
+Interesting articles on entropy and random number generation:
+
+* Hackaday: [What Is Entropy And How Do I Get More Of It?](https://hackaday.com/2017/11/02/what-is-entropy-and-how-do-i-get-more-of-it/)
+* HashedOut: [Why all the fuss about 64-bit serial numbers?](https://www.thesslstore.com/blog/why-all-the-fuss-about-64-bit-serial-numbers/)
+* Cloudflare: [How do lava lamps help with Internet encryption?](https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/)
 
 ### Cool Online Sources of Entropy
 
@@ -19,3 +24,4 @@ More info:
 * [Best Online RNGs](https://www.makeuseof.com/best-online-random-number-generators/)
 * [Cloudflare lava lamp wall](https://blog.cloudflare.com/lavarand-in-production-the-nitty-gritty-technical-details/)
 * [Cloudflare randomness API](https://csprng.xyz/)
+* [Cloudflare randomness printer](https://github.com/cloudflare/receipt-printer)
