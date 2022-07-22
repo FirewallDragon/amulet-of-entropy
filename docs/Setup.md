@@ -17,13 +17,15 @@ Download and install the Arduino IDE. I used [IDE v1](https://docs.arduino.cc/so
 2. Tools > Board: "xxxxx" > Boards Manager. Search for "pico" and install "Raspberry Pi Pico/RP2040" by Earle F Phillhower, III.
 3. Tools > Board: "xxxxx" > Raspberry Pi RP2040 Boards > Raspberry Pi Pico
 
+I used version 2.0.3 of the Pico board plugin.
+
 ## IDE Libraries
 
-You'll need to [install these Arduino IDE libraries](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries).
+You'll need to [install these Arduino IDE libraries](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries). I've noted the versions of them that I am currently using, for what that's worth.
 
-* [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
-* [GFX Library for Arduino](https://github.com/moononournation/Arduino_GFX)
-* [JPEGDEC](https://github.com/bitbank2/JPEGDEC)
+* [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) (v1.10.5)
+* [GFX Library for Arduino](https://github.com/moononournation/Arduino_GFX) (v1.2.3)
+* [JPEGDEC](https://github.com/bitbank2/JPEGDEC) (v1.2.6)
 
 
 ## Install LittleFS IDE Plugin
