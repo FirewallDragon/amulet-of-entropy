@@ -81,8 +81,9 @@ void EntropyPool::harvest_entropy(unsigned int value)
     // We want noisy values. Let's only look at the lowest 8 bits.
     // We'll concatanate bytes till we reach 32 bits, then add to the pool.
 
-    // NOTE: This code will change as I do research on the statistical
-    // distribution of the values.
+    // NOTE: My research has shown that the lower 8 bits isn't really noisy
+    // enough for the shot and light sensors. See the /research directory for
+    // more info. I may update this code accordingly, if I have time.
 
     unsigned int last_byte = value & 0x000000FF;
     debug("harvest_entropy: 0x%02X", last_byte);

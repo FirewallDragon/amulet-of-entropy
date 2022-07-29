@@ -1,9 +1,9 @@
 # Entropy
 
-I'll be filling this doc in more over the course of July as I prepare for a related talk I'm giving at the Crypto & Privacy Village of DEF CON 30. Check back.
+I used my Amulet of Entropy to test the theory that we can collect usable randomness from the environment using hardware sensors. See the [research](../research/README.md) directory for more info.
 
 
-More info:
+## More info:
 
 * My HackerBoxes partner and I discuss entropy and this project on [my podcast](https://podcast.firewallsdontstopdragons.com/2022/07/04/necessary-chaos/).
 * [Entropy](https://en.wikipedia.org/wiki/Entropy_(computing))
@@ -12,7 +12,7 @@ More info:
 * [Diehard Tests](https://en.wikipedia.org/wiki/Diehard_tests)
 
 
-### Cool Online Sources of Entropy
+## Cool Online Sources of Entropy
 
 * [Random.org](https://www.random.org)
 * [Best Online RNGs](https://www.makeuseof.com/best-online-random-number-generators/)

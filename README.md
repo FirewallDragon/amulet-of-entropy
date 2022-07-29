@@ -2,11 +2,11 @@
 
 The ***Amulet of Entropy*** is a [HackerBoxes.com](https://hackerboxes.com) project, designed to be an indie badge ([#badgelife](https://www.vice.com/en/article/vbne9a/a-history-of-badgelife-def-cons-unlikely-obsession-with-artistic-circuit-boards) baby!) for [DEF CON 30](https://defcon.org/html/defcon-30/dc-30-index.html) (Aug 11-15, 2022 in Vegas). If you are at all interested in using this software, you'll need to buy kit [#0080](https://hackerboxes.com/products/hackerbox-0080-entropy). And I would do it soon - these things will probably sell out. If you miss it online, there should be some for sale at the HackerBoxes vendor booth at DEF CON 30.
 
-This badge will also be used as a research tool for a talk at this year's DEF CON in the Crypto and Privacy Village.
+This badge will also be used as a research tool for a talk at DEF CON 30 in the Crypto & Privacy Village called "Capturing Chaos: Harvesting Environmental Entropy". See this [README file](research/README.md) for more info.
 
 This project took about 8 months to complete (off and on) and I could not have done it without HackerBoxes. HUGE thanks to Joe for handling all the hard parts (and his infinite patience with my many questions)! If you're the least bit interested in building some fun and educational electronics projects, subscribe. Just trust me.
 
-UPDATE: I'm planning to add a branch with some other modes, like a d20. Stay tuned!
+**UPDATE [7/29]:** I'm still planning to add a branch with some other modes, like a d20. Now that the [research](research/README.md) is done, I should be able to work on that next week. Goal is to have it done by Aug 8 at the latest, but hopefully sooner.
 
 ## Project Documentation
 
