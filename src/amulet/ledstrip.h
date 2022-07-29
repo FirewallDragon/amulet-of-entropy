@@ -59,6 +59,7 @@ class LEDStrip
         void color_wipe(uint32_t color, int wait);
 
         void set_pool_meter(unsigned int percent);
+        void set_sample_meter(unsigned int percent);
 
         void set_eyes(RGBColor c, unsigned int percent = 100);
         void set_arrows(RGBColor c, unsigned int percent = 100);

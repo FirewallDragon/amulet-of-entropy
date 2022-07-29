@@ -74,6 +74,21 @@ void LEDStrip::set_pool_meter(unsigned int percent)
     }
 }
 
+// Use the entire strip to show progress
+void LEDStrip::set_sample_meter(unsigned int percent)
+{
+    // This math isn't exact, but it's close enough
+    float bin = 100/LED_COUNT;
+    int level = percent/bin;
+    for (int i=0 ; i<LED_COUNT ; i++) {
+        if (level >= i) {
+            _strip.setPixelColor(i, adjust_brightness(rgb_green, 50));
+        }
+    }
+    _strip.show();
+
+}
+
 
 void LEDStrip::set_eyes(RGBColor c, unsigned int percent)
 {
