@@ -13,17 +13,20 @@ There are three main steps here:
 
 Download and install the Arduino IDE. I used [IDE v1](https://docs.arduino.cc/software/ide-v1) as IDE v2 wasn't quite ready.
 
+Then install v2.x of the [Raspberry Pi Pico/RP2040 Board Manager](https://github.com/earlephilhower/arduino-pico/) (*not* the latest version!). There's a [compiler issue](https://github.com/FirewallDragon/amulet-of-entropy/issues/1) when using the latest version of the Pico board manager. I used version 2.0.3 and have verified that the code will compile with v2.2.2.
+
 1. Pico board manager. Under Prefs > Additional Boards Manager URLs, add:  `https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json`
-2. Tools > Board: "xxxxx" > Boards Manager. Search for "pico" and install "Raspberry Pi Pico/RP2040" by Earle F Phillhower, III.
+2. Tools > Board: "xxxxx" > Boards Manager. Search for "pico" and install "Raspberry Pi Pico/RP2040" by Earle F Phillhower, III. Again, do NOT use the latest version! Use v2.2.2.
 3. Tools > Board: "xxxxx" > Raspberry Pi RP2040 Boards > Raspberry Pi Pico
+
 
 ## IDE Libraries
 
-You'll need to [install these Arduino IDE libraries](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries).
+You'll need to [install these Arduino IDE libraries](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries). I've noted the versions of them that I am currently using, for what that's worth.
 
-* [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
-* [GFX Library for Arduino](https://github.com/moononournation/Arduino_GFX)
-* [JPEGDEC](https://github.com/bitbank2/JPEGDEC)
+* [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) (v1.10.5)
+* [GFX Library for Arduino](https://github.com/moononournation/Arduino_GFX) (v1.2.3)
+* [JPEGDEC](https://github.com/bitbank2/JPEGDEC) (v1.2.6)
 
 
 ## Install LittleFS IDE Plugin
@@ -32,8 +35,8 @@ This is required to show the images. See the instructions on the [arduino-pico-l
 
 **NOTE!** Once you have LittleFS plugin installed for the Arduino IDE, be sure to set the file system partitioning to give you file space on the board. To do this:
 
-0. With the board attached and the serial monitor NOT open...
-1. (IDE) Tools > Flash Size "xxxxx" > 2MB (Sketch: 1MB, FS: 1MB)
+1. With the board attached and the serial monitor NOT open...
+2. (IDE) Tools > Flash Size "xxxxx" > 2MB (Sketch: 1MB, FS: 1MB)
 
 If you don't do this, you'll get an error like:
 

@@ -4,7 +4,7 @@
 * [Raspberry Pico docs](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 * [RP2040-Zero Spec Sheet](https://www.waveshare.com/wiki/RP2040-Zero)
 * [RP2040-Zero pinouts](https://www.waveshare.com/wiki/RP2040-Zero#/media/File:RP2040-Zero-details-7.jpg)
-* SHOT noise: [1](http://robseward.com/misc/RNG2/) [2](https://rweather.github.io/arduinolibs/classTransistorNoiseSource.html)
+* SHOT noise: [1](http://robseward.com/misc/RNG2/) [2](https://rweather.github.io/arduinolibs/classTransistorNoiseSource.html) [3](https://code.google.com/archive/p/avr-hardware-random-number-generation/wikis/AvalancheNoise.wiki) [4](https://rweather.github.io/arduinolibs/classTransistorNoiseSource.html)
 
 ## Recovering a Wacked Out Board
 
