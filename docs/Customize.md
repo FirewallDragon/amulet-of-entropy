@@ -4,7 +4,9 @@ Once you have your amulet up and running, you might be interested in making your
 
 ## Bonus Modes
 
-I'll be adding some additional modes soon, including common D&D dice. Stay tuned! You'll find the bonus images and some code you can copy in the [src/bonus](../src/bonus) directory. I'll also add some other splash screen images you can use.
+I've added several sets of images in the [src/bonus](../src/bonus) directory that you can use to create new modes for the Amulet. See the [README file](../src/bonus/modes/README.md) there for example code. 
+
+I've also added some other splash screen images you can use in the [src/bonus/splashscreen_images](src/bonus/splashscreen_images) directory.
 
 ## Flash Memory Full
 
@@ -21,6 +23,8 @@ To create a new mode:
 2. Add a new Outcomes map in [src/amulet/outcomes.cpp](../src/amulet/outcomes.cpp). You want to map each numbered outcome with an image file. (Note that the text fields aren't used.)
 3. Add an `extern` reference to this map in [src/amulet/outcomes.h](../src/amulet/outcomes.h).
 3. Update the list of modes in [src/amulet/statemachine.cpp](../src/amulet/statemachine.cpp).
+
+I run through an example in the [src/bonus/modes](../src/bonus/modes/README.md) directory.
 
 ## Entropy Pool Size
 

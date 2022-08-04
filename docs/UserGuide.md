@@ -49,6 +49,8 @@ Once you select your mode, every time you click **Select**, a new random value w
 
 To select a different mode, click **Back** and then use **Plus/Minus** again.
 
+(**NOTE:** If you want to add your own modes, see the [Customization](Customize.md) doc.)
+
 ## Entropy Pool Empty
 
 When you use up the pool of entropy, the amulet will pause to collect more entropy. When the pool is again full, you'll be back to the mode choices.

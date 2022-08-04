@@ -13,7 +13,7 @@ There are three main steps here:
 
 Download and install the Arduino IDE. I used [IDE v1](https://docs.arduino.cc/software/ide-v1) as IDE v2 wasn't quite ready.
 
-Then install v2.x of the [Raspberry Pi Pico/RP2040 Board Manager](https://github.com/earlephilhower/arduino-pico/) (*not* the latest version!). There's a [compiler issue](https://github.com/FirewallDragon/amulet-of-entropy/issues/1) when using the latest version of the Pico board manager. I used version 2.0.3 and have verified that the code will compile with v2.2.2.
+Then install **v2.x** of the [Raspberry Pi Pico/RP2040 Board Manager](https://github.com/earlephilhower/arduino-pico/) (***not*** the latest version!). There's a [compiler issue](https://github.com/FirewallDragon/amulet-of-entropy/issues/1) when using the latest version of the Pico board manager. I used version 2.0.3 and have verified that the code will compile with v2.2.2.
 
 1. Pico board manager. Under Prefs > Additional Boards Manager URLs, add:  `https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json`
 2. Tools > Board: "xxxxx" > Boards Manager. Search for "pico" and install "Raspberry Pi Pico/RP2040" by Earle F Phillhower, III. Again, do NOT use the latest version! Use v2.2.2.

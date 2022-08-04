@@ -6,7 +6,7 @@ This badge will also be used as a research tool for a talk at DEF CON 30 in the 
 
 This project took about 8 months to complete (off and on) and I could not have done it without HackerBoxes. HUGE thanks to Joe for handling all the hard parts (and his infinite patience with my many questions)! If you're the least bit interested in building some fun and educational electronics projects, [subscribe](https://hackerboxes.com/products/hackerbox-monthly-subscription). Just trust me.
 
-**UPDATE [7/29]:** I'm still planning to add a branch with some other modes, like a d20. Now that the [research](research/README.md) is done, I should be able to work on that next week. Goal is to have it done by Aug 8 at the latest, but hopefully sooner.
+**UPDATE [8/4/2022]:** I've added some nice [d20 images](src/bonus/modes/d20) that you can use to [customize](docs/Customize.md) your Amulet! See the [README](src/bonus/modes/README.md) file there for more info.
 
 ## Project Documentation
 
