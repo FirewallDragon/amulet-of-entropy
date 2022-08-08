@@ -6,6 +6,8 @@ This badge will also be used as a research tool for a talk at DEF CON 30 in the 
 
 This project took about 8 months to complete (off and on) and I could not have done it without HackerBoxes. HUGE thanks to Joe for handling all the hard parts (and his infinite patience with my many questions)! If you're the least bit interested in building some fun and educational electronics projects, [subscribe](https://hackerboxes.com/products/hackerbox-monthly-subscription). Just trust me.
 
+**UPDATE [8/7/2022]:** This is probably the last mod before DC30. I just added [rock, paper, scissors, lizard, spock images](src/bonus/modes/rock-paper-scissors)!
+
 **UPDATE [8/4/2022]:** I've added some nice [d20 images](src/bonus/modes/d20) that you can use to [customize](docs/Customize.md) your Amulet! See the [README](src/bonus/modes/README.md) file there for more info.
 
 ## Project Documentation
