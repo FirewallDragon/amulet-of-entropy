@@ -1,14 +1,13 @@
 ![Amulet of Entropy](docs/images/amulet-logo.jpg)
 
-The ***Amulet of Entropy*** is a [HackerBoxes.com](https://hackerboxes.com) project, designed to be an indie badge ([#badgelife](https://www.vice.com/en/article/vbne9a/a-history-of-badgelife-def-cons-unlikely-obsession-with-artistic-circuit-boards) baby!) for [DEF CON 30](https://defcon.org/html/defcon-30/dc-30-index.html) (Aug 11-14, 2022 in Vegas). If you are at all interested in using this software, you'll need to buy kit [#0080](https://hackerboxes.com/products/hackerbox-0080-entropy). And I would do it soon - these things will probably sell out. If you miss it online, there should be some for sale at the HackerBoxes vendor booth at DEF CON 30.
+The ***Amulet of Entropy*** was a [HackerBoxes.com](https://hackerboxes.com) project, designed as an indie badge ([#badgelife](https://www.vice.com/en/article/vbne9a/a-history-of-badgelife-def-cons-unlikely-obsession-with-artistic-circuit-boards) baby!) for DEF CON 30 (which is now sadly behind us). If you're still interested, there are a few [HackerBox #0080 kits](https://hackerboxes.com/products/hackerbox-0080-entropy) left - **get them while you can!**
 
-This badge will also be used as a research tool for a talk at DEF CON 30 in the Crypto & Privacy Village called "Capturing Chaos: Harvesting Environmental Entropy". See this [README file](research/README.md) for more info.
+This badge was also used as a research tool for the talk I gave at DEF CON 30 in the Crypto & Privacy Village called "Capturing Chaos: Harvesting Environmental Entropy". See this [README file](research/README.md) for more info.
 
 This project took about 8 months to complete (off and on) and I could not have done it without HackerBoxes. HUGE thanks to Joe for handling all the hard parts (and his infinite patience with my many questions)! If you're the least bit interested in building some fun and educational electronics projects, [subscribe](https://hackerboxes.com/products/hackerbox-monthly-subscription). Just trust me.
 
-**UPDATE [8/7/2022]:** This is probably the last mod before DC30. I just added [rock, paper, scissors, lizard, spock images](src/bonus/modes/rock-paper-scissors)!
+I hope to collaborate with HackerBoxes again on future projects like this.
 
-**UPDATE [8/4/2022]:** I've added some nice [d20 images](src/bonus/modes/d20) that you can use to [customize](docs/Customize.md) your Amulet! See the [README](src/bonus/modes/README.md) file there for more info.
 
 ## Project Documentation
 
