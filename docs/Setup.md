@@ -19,6 +19,8 @@ Then install **v2.x** of the [Raspberry Pi Pico/RP2040 Board Manager](https://gi
 2. Tools > Board: "xxxxx" > Boards Manager. Search for "pico" and install "Raspberry Pi Pico/RP2040" by Earle F Phillhower, III. Again, do NOT use the latest version! Use v2.2.2.
 3. Tools > Board: "xxxxx" > Raspberry Pi RP2040 Boards > Raspberry Pi Pico
 
+**UPDATE:** Someone (bitr0t) on the [Instructables comments for the badge](https://www.instructables.com/HackerBox-0080-Entropy/) figured out what was going on here and posted a simple fix. See the answer to the question about JPEGDEC, all the way at the bottom of the page where the comment section is.
+
 
 ## IDE Libraries
 
