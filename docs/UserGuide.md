@@ -42,7 +42,7 @@ Once the amulet has filled the entropy pool (which it does automatically at star
 1. Flip a coin
 2. Roll a die (d6)
 3. Pick a card (standard 52-card deck)
-4. Pict a tarot card (standard [Rider-Waite deck](https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck))
+4. Pick a tarot card (standard [Rider-Waite deck](https://en.wikipedia.org/wiki/Rider%E2%80%93Waite_tarot_deck))
 5. Magic 8 Ball
 
 Once you select your mode, every time you click **Select**, a new random value will be chosen.
